@@ -6,7 +6,7 @@ Gist About me
 
 - 🎤 I am a simple Dev with a simple plot.
 - 🛸 I am currently learning a few languages, I mostly know C and python!
-- 📬 Discord: <a href="mailto:ishan02016@gmail.com">Let's get in touch!</a>
+- 📬 Discord: <a href="https://discord.io/AlphaBlue">Let's get in touch!</a>
 
 ### Other places you can find me 
 
