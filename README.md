@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there It's me Ish∆n 👋
 
-<!--
-**AlxtraBlue/AlxtraBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![HitCount](http://hits.dwyl.com/AlxtraBlue/AlxtraBlue.svg)](http://hits.dwyl.com/AlxtraBlue/AlxtraBlue)
 
-Here are some ideas to get you started:
+Gist About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎤 I am a simple Dev with a simple plot.
+- 🛸 I am currently learning a few languages, I mostly know C and python!
+- 📬 Discord: <a href="mailto:ishan02016@gmail.com">Let's get in touch!</a>
+
+### Other places you can find me 
+
+🎥 [Subscribe to my Youtube](https://www.youtube.com/channel/UCq7SyE80Zj2wjpIdt_48qLQ?sub_confirmation=1)
+
+###
+
+I am learning piece by piece, just like a normal human. If you make mistakes just work to fix them, giving up will lead you into a dark hole that you will never get out of! 
+
