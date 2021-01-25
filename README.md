@@ -1,4 +1,4 @@
-### Hi there It's me Ish∆n 👋
+### Hi there It's me Alxtra 👋
 
 [![HitCount](http://hits.dwyl.com/AlxtraBlue/AlxtraBlue.svg)](http://hits.dwyl.com/AlxtraBlue/AlxtraBlue)
 
